@@ -10,3 +10,15 @@ body{ font-size: 24px;
             padding-top: 3rem;
             padding-bottom: 3rem;
         }
+    .flex-navbar{ background-color: blue;
+         padding-top: 1rem;
+          padding-bottom: 1rem;
+        }
+        .flex-main{ display: flex;
+             flex: 1;
+        }
+        .flex-nav{ background-color: darkcyan;
+             padding-top: 3rem;
+              flex: 1 1 5rem;
+            }
+            
